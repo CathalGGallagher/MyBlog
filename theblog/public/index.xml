@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on Cathals blog</title>
+    <link>https://cathalggallagher.github.io/</link>
+    <description>Recent content in Content on Cathals blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Mar 2021 11:23:18 +0000</lastBuildDate><atom:link href="https://cathalggallagher.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Onboarding</title>
+      <link>https://cathalggallagher.github.io/posts/onboarding/</link>
+      <pubDate>Mon, 15 Mar 2021 11:23:18 +0000</pubDate>
+      
+      <guid>https://cathalggallagher.github.io/posts/onboarding/</guid>
+      <description>This is my first article
+Section 1 ##Section 1.2</description>
+    </item>
+    
+  </channel>
+</rss>
