@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cathals blog</title>
-    <link>https://cathalggallagher.github.io/posts/</link>
+    <link>https://cathalggallagher.github.io/docs/posts/</link>
     <description>Recent content in Posts on Cathals blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Mar 2021 11:23:18 +0000</lastBuildDate><atom:link href="https://cathalggallagher.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 11:23:18 +0000</lastBuildDate><atom:link href="https://cathalggallagher.github.io/docs/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Onboarding</title>
-      <link>https://cathalggallagher.github.io/posts/onboarding/</link>
+      <link>https://cathalggallagher.github.io/docs/posts/onboarding/</link>
       <pubDate>Mon, 15 Mar 2021 11:23:18 +0000</pubDate>
       
-      <guid>https://cathalggallagher.github.io/posts/onboarding/</guid>
+      <guid>https://cathalggallagher.github.io/docs/posts/onboarding/</guid>
       <description>This is my first article
 Section 1 ##Section 1.2</description>
     </item>
