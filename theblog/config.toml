@@ -1,4 +1,5 @@
-baseURL = "https://cathalggallagher.github.io/MyBlog/docs"
+relativeURLs = true
+baseURL = "/"
 languageCode = "en-us"
 title = "Cathals blog"
 theme="hugo-theme-techdoc"
