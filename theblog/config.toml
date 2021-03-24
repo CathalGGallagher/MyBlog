@@ -2,7 +2,7 @@ relativeURLs = true
 baseURL = "/"
 languageCode = "en-us"
 title = "Cathals blog"
-theme="hugo-theme-techdoc"
+theme="ananke"
 
 sectionPagesMenu = "main"
 
